@@ -1,5 +1,9 @@
 ## Learn Nginx
 
+
+### Resources
+1. https://www.youtube.com/watch?v=FziEhnIpln4
+
 Nginx is a simple web server. it is used to server content in the server. but it is not just a server, it also covers reverse proxy, caching, load balencing, static file serving etc. 
 
 
