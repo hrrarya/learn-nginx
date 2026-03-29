@@ -26,6 +26,6 @@ Main
             - in this block, we define configurations for serving contents, caching, load balencing etc. 
         - Upstream Block
             - if we want to use nginx as reverse proxy, then we need this upstream block. 
-        
+            - 
 
 
